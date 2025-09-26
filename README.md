@@ -1,3 +1,3 @@
-This github REPO is my mod folder so feel free to use it!
+Baysen server assets and rough drafts for documentation
 
 -Net
