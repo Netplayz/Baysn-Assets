@@ -1,0 +1,12 @@
+Baysn is a next-generation Discord moderation bot designed to keep your community safe with zero effort.
+Built with a powerful regex automod engine, Baysn detects spam, scams, invite bypasses, and leetspeak patterns that slip past other bots.
+
+⚡ Lightning fast response times (<200ms)
+
+🛡️ Protecting 840,000+ users
+
+📈 99% uptime and reliable infrastructure
+
+🔍 Smart pattern detection (Unicode, character spacing, obfuscation)
+
+Formerly known as MANIAC, Baysn has been rebuilt with speed, reliability, and simplicity at its core.
