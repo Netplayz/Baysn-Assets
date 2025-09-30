@@ -68,7 +68,7 @@ Baysn requires moderation permissions to function correctly.
 
 ## 🐛 Bug Reports
 
-- Report bugs in the **#bot-reports** channel of our [support server](https://discord.gg/FwVWz9FB5h)  
+- Report bugs in the **#tickets channel under bug bounty** channel of our [support server](https://discord.gg/FwVWz9FB5h)  
 - Include:
   - Description of the issue  
   - Steps to reproduce  
